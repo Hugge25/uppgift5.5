@@ -23,7 +23,7 @@ namespace Program
                 Console.WriteLine();
                 Console.ReadLine();
                 Console.WriteLine();
-                Console.WriteLine("-" + s[rnd.Next(10)]);
+                Console.WriteLine("- " + s[rnd.Next(10)]);
                 Console.WriteLine();
 
                 
